@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html>
+# my first project
 
-<head>
-	<title>
-		First Web Page
-	</title>
-</head>
+## Things i did so far:
+-added index file
+-added registration form
 
-<body>
-	<h1>Hello World!</h1>
-</body>
-
-</html>s
